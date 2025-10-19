@@ -1,125 +1,83 @@
-# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/theme-academic-cv)
+# 🌐 [Josh Ibitoye — AI, Cybersecurity & Cloud Systems Portfolio](https://jsibitoye.com)
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
+[![Website](https://img.shields.io/badge/Visit_jsibitoye.com-0A66C2?style=for-the-badge)](https://jsibitoye.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josh_Ibitoye-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jsibitoye)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-brightgreen?style=for-the-badge)](https://www.researchgate.net/profile/Joshua-Ibitoye-2)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-orange?style=for-the-badge)](https://scholar.google.com/citations?hl=en&user=1iou2DEAAAAJ)
 
-<h1 align="center">Build an Academic CV and Resumé That Stands Out</h1>
+---
 
-<p align="center">
-  <strong>Your unfair advantage in academia and tech.</strong><br/>
-  Showcase your work, boost your citations, and land your dream job at places like <strong>Meta, Google, and Stanford</strong>.
-</p>
-
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>🚀 Deploy Your Free CV in 60s</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/?open=academic-cv&loading=true&utm_source=github&utm_medium=readme">Live Demo</a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/pro?utm_source=github&utm_medium=readme"><b>✨ Upgrade to Pro</b></a>
-</p>
+<h2 align="center">🚀 Building Intelligent, Secure, and Self-Healing Systems</h2>
 
 <p align="center">
-  Trusted by 250,000+ researchers, students, and educators worldwide.
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/z8wNYzb">
-    <img src="https://img.shields.io/discord/722225264733716590?label=Join%20Discord&style=social" alt="Discord">
-  </a>
-  <a href="https://github.com/HugoBlox/theme-academic-cv">
-    <img src="https://img.shields.io/github/stars/HugoBlox/theme-academic-cv?label=Star%20Academic%20CV&style=social" alt="GitHub Stars">
-  </a>
+  <strong>AI Engineer | DevSecOps | Cybersecurity Researcher</strong><br/>
+  <em>Transforming cloud infrastructure into intelligent, autonomous, and secure ecosystems.</em>
 </p>
 
 ---
 
-## Your Career Starts Here
+## 💡 About This Project
 
-The Academic CV template is designed for impact. Whether you're an AI researcher, a recent graduate, or a seasoned professor, this is the last resumé you'll ever need.
+This repository powers [**jsibitoye.com**](https://jsibitoye.com) — my official professional and academic website.  
+It showcases my journey across **AI-driven cybersecurity**, **cloud systems**, and **autonomous network engineering**.  
 
-- **✍️ Showcase Your Expertise:** Easily write content with Markdown, Jupyter, or RStudio. Display your publications, talks, and projects in a stunning, professional layout.
-- **📈 Boost Your Citations:** Automatic BibTeX import and SEO-optimized pages mean your work gets discovered more easily, increasing your research impact.
-- **💼 Land Your Dream Job:** Create a memorable online presence that impresses recruiters from top tech firms and prestigious universities.
-- **🚀 Launch in Minutes:** No coding required. The Hugo Blox Builder lets you customize everything with drag-and-drop sections.
+The site is built using **HugoBlox Academic (CV)** with deep customization for:
 
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme">
-    <img src="https://img.shields.io/badge/⚡️%20Get%20Your%20CV%20in%2060s-ff4655?style=for-the-badge" alt="Deploy this template" width="400">
-  </a>
-</p>
+- 🧠 **AI Research & Publications:**  
+  Featuring my peer-reviewed papers in AI, self-healing networks, and FinTech fraud surveillance.
 
----
+- 🛡️ **Cybersecurity Projects:**  
+  Real-world systems for cloud defense, digital forensics, and intelligent automation.
 
-## Level Up with Pro Templates
+- ☁️ **DevOps & Cloud Architecture:**  
+  Infrastructure design on AWS, containerized automation with Docker & Kubernetes, and Terraform-based IaC.
 
-Ready to take your career to the next level? Our Pro templates offer exclusive designs and features to help you stand out even more.
-
-<!-- <p align="center">
-  <img src="" alt="Free vs Pro templates">
-</p>-->
-
-| Feature              | Academic CV (Free)       | Academic CV Pro & Resumé Pro     |
-| -------------------- | ------------------------ | -------------------------------- |
-| **Design**           | Professional & clean     | **Exclusive premium designs**    |
-| **Layouts**          | Standard resumé sections | **Advanced layouts & timelines** |
-| **Call to Action**   | Simple contact link      | **Prominent CTA buttons**        |
-| **First Impression** | Strong                   | **Unforgettable**                |
-
-<br/>
-<p align="center">
-  <a href="https://hugoblox.com/pro?utm_source=github&utm_medium=readme"><b>💎 Get the Pro Pass</b></a> — Includes all Pro templates for a one-time price.<br/>
-  <a href="https://hugoblox.com/templates/academic-cv-pro/start?utm_source=github&utm_medium=readme">✨ Deploy Academic CV Pro</a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/resume-pro/start?utm_source=github&utm_medium=readme">📄 Deploy Resumé Pro</a>
-</p>
+- 🎤 **Talks & Events:**  
+  Upcoming IEEE and professional conference presentations, including  
+  *“Credit Card Fraud Detection Using Machine Learning: An AI-Driven Approach for Financial Security.”*
 
 ---
 
-## What Researchers Say
+## 🧾 Featured Publications
 
-> “Hugo Blox saved me 40+ hours on my lab site. BibTeX integration auto-updates publications — **our citations are up 3×**.”
-> — **Dr. Sarah Yang**, AI Researcher
+- **Multi-Agent AI Systems for Secure FinTech Operations** — *IJRPR, 2025*  
+- **Modeling Threat Vectors Across Cyber, Land, Air, and Maritime Domains** — *IJRPR, 2025*  
+- **Zero-Trust Cloud Security Architectures with AI-Orchestrated Policy Enforcement** — *IJSEA, 2023*  
+- **Self-Healing Networks Using AI-Driven Root Cause Analysis for Cyber Recovery** — *IJETR, 2022*  
+- [Full publication list → ResearchGate](https://www.researchgate.net/profile/Joshua-Ibitoye-2)
 
 ---
 
-## Get Started in Minutes
+## 🏆 Certifications
 
-### Recommended (Fastest)
+| Certification | Awarder | Year | Credential |
+|----------------|----------|------|-------------|
+| CASP+ (Governance, Risk & Compliance) | CompTIA | 2024 | [Verify](https://www.credly.com/badges/4a0c19bd-5765-4d8b-a73c-dae68d91436c/public_url) |
+| Certified Cybersecurity Technician (CCT) | EC-Council | 2025 | [Verify](https://learn.eccouncil.org/certificate/49944168-4275-43bf-9746-8423c21d2e49) |
+| Digital Forensics Essentials | EC-Council | 2024 | [View Certificate (PDF)](./static/files/ecc-dfe-certificate.pdf) |
 
-Deploy your site to GitHub Pages in just 60 seconds with our browser-based starter.
+---
 
-👉 <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>Start with the Academic CV Template</b></a>
+## 🧰 Tech Stack
 
-### Prefer the Command Line?
+**Languages:** Python, Go, Java, C++, JavaScript  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, SageMaker, CodePipeline), Terraform, Docker, Kubernetes  
+**Security:** SIEM, IDS/IPS, Threat Intel, Forensics  
+**AI/ML:** PyTorch, TensorFlow, SageMaker, Generative AI  
+**Framework:** HugoBlox Academic CV  
+**Tools:** GitHub Actions, FastAPI, VS Code, Windows & Linux
 
-Use the local quickstart:
+---
+
+## ⚙️ Local Setup (for developers)
+
+Want to run or customize this site locally?
 
 ```bash
 # 1. Install Hugo Extended → https://docs.hugoblox.com/getting-started/install-hugo/
-# 2. Clone this starter
-git clone https://github.com/HugoBlox/theme-academic-cv my-site
-cd my-site
+# 2. Clone this repo
+git clone https://github.com/jsibitoye/jsibitoye.git
+cd jsibitoye
 
 # 3. Run locally
 pnpm install && hugo server
-```
-
-For more guides, visit our documentation at **https://docs.hugoblox.com/**.
-
----
-
-## Join the Community
-
-Join thousands of creators in our vibrant community to ask questions, share your work, and help us improve.
-
-- 💬 <a href="https://discord.gg/z8wNYzb">Discord</a>
-- 📚 <a href="https://docs.hugoblox.com/?utm_source=github&utm_medium=readme">Docs & Guides</a>
-- 🐦 <a href="https://x.com/BuildLore">X / Twitter</a>
-- ⭐ <a href="https://github.com/HugoBlox/hugo-blox-builder">Star on GitHub</a>
-
----
-
-MIT © 2016-Present [George Cushen](https://georgecushen.com)
-
-<!--START_SECTION:news-->
-<!--Updated at 2025-10-19T02:02:33.365Z-->
-<!--END_SECTION:news-->
