@@ -6,8 +6,7 @@
 # Website name
 title: JsIbitoye
 # Website URL
-baseURL: 'https://jsibitoye.com/'
-
+baseURL: "https://jsibitoye.github.io/jsibitoye/"
 ############################
 ## LANGUAGE
 ############################
