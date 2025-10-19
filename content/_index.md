@@ -32,13 +32,13 @@ sections:
   - block: markdown
     content:
       title: '📚 My Research'
-      subtitle: ''
+      subtitle: 'AI • Cybersecurity • Cloud Systems'
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I research how **artificial intelligence** can strengthen **cloud security** and enable **self-healing networks**. My goal is to build intelligent, resilient systems that detect, prevent, and recover from cyber threats automatically.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I share insights on **AI security**, **DevSecOps**, and **autonomous cloud infrastructure**.  
+        Always open to collaboration on innovative cloud & security projects. 🤝
 
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
