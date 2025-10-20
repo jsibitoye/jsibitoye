@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Public-Health Security | JsIbitoye</title>
-    <link>https://jsibitoye.github.io/jsibitoye/tags/public-health-security/</link>
-      <atom:link href="https://jsibitoye.github.io/jsibitoye/tags/public-health-security/index.xml" rel="self" type="application/rss+xml" />
-    <description>Public-Health Security</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://jsibitoye.github.io/jsibitoye/media/icon_hu_982c5d63a71b2961.png</url>
-      <title>Public-Health Security</title>
-      <link>https://jsibitoye.github.io/jsibitoye/tags/public-health-security/</link>
-    </image>
-    
-    <item>
-      <title>AI-Driven, Privacy-Preserving Contact Tracing and Pandemic Response Systems. . .</title>
-      <link>https://jsibitoye.github.io/jsibitoye/publications/ai_privacy_precerving_system-pandemic/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://jsibitoye.github.io/jsibitoye/publications/ai_privacy_precerving_system-pandemic/</guid>
-      <description>&lt;p&gt;This research introduces a &lt;strong&gt;federated learning and zero-trust security model&lt;/strong&gt; for real-time pandemic response.&lt;br&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Public-Health Security | JsIbitoye</title><link>https://jsibitoye.github.io/jsibitoye/tags/public-health-security/</link><atom:link href="https://jsibitoye.github.io/jsibitoye/tags/public-health-security/index.xml" rel="self" type="application/rss+xml"/><description>Public-Health Security</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><image><url>https://jsibitoye.github.io/jsibitoye/media/icon_hu_982c5d63a71b2961.png</url><title>Public-Health Security</title><link>https://jsibitoye.github.io/jsibitoye/tags/public-health-security/</link></image><item><title>AI-Driven, Privacy-Preserving Contact Tracing and Pandemic Response Systems. . .</title><link>https://jsibitoye.github.io/jsibitoye/publications/ai_privacy_precerving_system-pandemic/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://jsibitoye.github.io/jsibitoye/publications/ai_privacy_precerving_system-pandemic/</guid><description>&lt;p&gt;This research introduces a &lt;strong&gt;federated learning and zero-trust security model&lt;/strong&gt; for real-time pandemic response.&lt;br&gt;
 It ensures privacy, scalability, and data integrity across distributed health networks.&lt;/p&gt;
 &lt;p&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/p&gt;</description></item></channel></rss>

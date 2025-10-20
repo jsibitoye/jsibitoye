@@ -1,39 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AI-Driven Systems | JsIbitoye</title>
-    <link>https://jsibitoye.github.io/jsibitoye/tags/ai-driven-systems/</link>
-      <atom:link href="https://jsibitoye.github.io/jsibitoye/tags/ai-driven-systems/index.xml" rel="self" type="application/rss+xml" />
-    <description>AI-Driven Systems</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://jsibitoye.github.io/jsibitoye/media/icon_hu_982c5d63a71b2961.png</url>
-      <title>AI-Driven Systems</title>
-      <link>https://jsibitoye.github.io/jsibitoye/tags/ai-driven-systems/</link>
-    </image>
-    
-    <item>
-      <title>Zero-Trust Cloud Security Architectures with AI-Orchestrated Policy Enforcement. . .</title>
-      <link>https://jsibitoye.github.io/jsibitoye/publications/zero_trust_csa/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://jsibitoye.github.io/jsibitoye/publications/zero_trust_csa/</guid>
-      <description>&lt;p&gt;This work proposes a &lt;strong&gt;Zero-Trust Cloud Security model&lt;/strong&gt; enhanced by &lt;strong&gt;AI-based policy orchestration&lt;/strong&gt;, designed to protect U.S. critical infrastructure from insider threats, misconfigurations, and adaptive attacks.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI-Driven Systems | JsIbitoye</title><link>https://jsibitoye.github.io/jsibitoye/tags/ai-driven-systems/</link><atom:link href="https://jsibitoye.github.io/jsibitoye/tags/ai-driven-systems/index.xml" rel="self" type="application/rss+xml"/><description>AI-Driven Systems</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><image><url>https://jsibitoye.github.io/jsibitoye/media/icon_hu_982c5d63a71b2961.png</url><title>AI-Driven Systems</title><link>https://jsibitoye.github.io/jsibitoye/tags/ai-driven-systems/</link></image><item><title>Zero-Trust Cloud Security Architectures with AI-Orchestrated Policy Enforcement. . .</title><link>https://jsibitoye.github.io/jsibitoye/publications/zero_trust_csa/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><guid>https://jsibitoye.github.io/jsibitoye/publications/zero_trust_csa/</guid><description>&lt;p&gt;This work proposes a &lt;strong&gt;Zero-Trust Cloud Security model&lt;/strong&gt; enhanced by &lt;strong&gt;AI-based policy orchestration&lt;/strong&gt;, designed to protect U.S. critical infrastructure from insider threats, misconfigurations, and adaptive attacks.&lt;/p&gt;
 &lt;p&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AI-Driven, Privacy-Preserving Contact Tracing and Pandemic Response Systems. . .</title>
-      <link>https://jsibitoye.github.io/jsibitoye/publications/ai_privacy_precerving_system-pandemic/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://jsibitoye.github.io/jsibitoye/publications/ai_privacy_precerving_system-pandemic/</guid>
-      <description>&lt;p&gt;This research introduces a &lt;strong&gt;federated learning and zero-trust security model&lt;/strong&gt; for real-time pandemic response.&lt;br&gt;
+&lt;/p&gt;</description></item><item><title>AI-Driven, Privacy-Preserving Contact Tracing and Pandemic Response Systems. . .</title><link>https://jsibitoye.github.io/jsibitoye/publications/ai_privacy_precerving_system-pandemic/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://jsibitoye.github.io/jsibitoye/publications/ai_privacy_precerving_system-pandemic/</guid><description>&lt;p&gt;This research introduces a &lt;strong&gt;federated learning and zero-trust security model&lt;/strong&gt; for real-time pandemic response.&lt;br&gt;
 It ensures privacy, scalability, and data integrity across distributed health networks.&lt;/p&gt;
 &lt;p&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/p&gt;</description></item></channel></rss>

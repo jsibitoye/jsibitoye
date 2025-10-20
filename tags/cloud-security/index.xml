@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cloud Security | JsIbitoye</title>
-    <link>https://jsibitoye.github.io/jsibitoye/tags/cloud-security/</link>
-      <atom:link href="https://jsibitoye.github.io/jsibitoye/tags/cloud-security/index.xml" rel="self" type="application/rss+xml" />
-    <description>Cloud Security</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://jsibitoye.github.io/jsibitoye/media/icon_hu_982c5d63a71b2961.png</url>
-      <title>Cloud Security</title>
-      <link>https://jsibitoye.github.io/jsibitoye/tags/cloud-security/</link>
-    </image>
-    
-    <item>
-      <title>Zero-Trust Cloud Security Architectures with AI-Orchestrated Policy Enforcement. . .</title>
-      <link>https://jsibitoye.github.io/jsibitoye/publications/zero_trust_csa/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://jsibitoye.github.io/jsibitoye/publications/zero_trust_csa/</guid>
-      <description>&lt;p&gt;This work proposes a &lt;strong&gt;Zero-Trust Cloud Security model&lt;/strong&gt; enhanced by &lt;strong&gt;AI-based policy orchestration&lt;/strong&gt;, designed to protect U.S. critical infrastructure from insider threats, misconfigurations, and adaptive attacks.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cloud Security | JsIbitoye</title><link>https://jsibitoye.github.io/jsibitoye/tags/cloud-security/</link><atom:link href="https://jsibitoye.github.io/jsibitoye/tags/cloud-security/index.xml" rel="self" type="application/rss+xml"/><description>Cloud Security</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><image><url>https://jsibitoye.github.io/jsibitoye/media/icon_hu_982c5d63a71b2961.png</url><title>Cloud Security</title><link>https://jsibitoye.github.io/jsibitoye/tags/cloud-security/</link></image><item><title>Zero-Trust Cloud Security Architectures with AI-Orchestrated Policy Enforcement. . .</title><link>https://jsibitoye.github.io/jsibitoye/publications/zero_trust_csa/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><guid>https://jsibitoye.github.io/jsibitoye/publications/zero_trust_csa/</guid><description>&lt;p&gt;This work proposes a &lt;strong&gt;Zero-Trust Cloud Security model&lt;/strong&gt; enhanced by &lt;strong&gt;AI-based policy orchestration&lt;/strong&gt;, designed to protect U.S. critical infrastructure from insider threats, misconfigurations, and adaptive attacks.&lt;/p&gt;
 &lt;p&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/p&gt;</description></item></channel></rss>

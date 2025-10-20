@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Critical Infrastructure | JsIbitoye</title>
-    <link>https://jsibitoye.github.io/jsibitoye/tags/critical-infrastructure/</link>
-      <atom:link href="https://jsibitoye.github.io/jsibitoye/tags/critical-infrastructure/index.xml" rel="self" type="application/rss+xml" />
-    <description>Critical Infrastructure</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://jsibitoye.github.io/jsibitoye/media/icon_hu_982c5d63a71b2961.png</url>
-      <title>Critical Infrastructure</title>
-      <link>https://jsibitoye.github.io/jsibitoye/tags/critical-infrastructure/</link>
-    </image>
-    
-    <item>
-      <title>Modeling Threat Vectors in Real-Time Using AI-Enhanced Surveillance Analytics . . .</title>
-      <link>https://jsibitoye.github.io/jsibitoye/publications/modelling_threat_vectors/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://jsibitoye.github.io/jsibitoye/publications/modelling_threat_vectors/</guid>
-      <description>&lt;p&gt;This paper introduces an &lt;strong&gt;AI-driven, multi-domain surveillance framework&lt;/strong&gt; that unifies analytics across cyber, land, air, and maritime systems.&lt;br&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Critical Infrastructure | JsIbitoye</title><link>https://jsibitoye.github.io/jsibitoye/tags/critical-infrastructure/</link><atom:link href="https://jsibitoye.github.io/jsibitoye/tags/critical-infrastructure/index.xml" rel="self" type="application/rss+xml"/><description>Critical Infrastructure</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><image><url>https://jsibitoye.github.io/jsibitoye/media/icon_hu_982c5d63a71b2961.png</url><title>Critical Infrastructure</title><link>https://jsibitoye.github.io/jsibitoye/tags/critical-infrastructure/</link></image><item><title>Modeling Threat Vectors in Real-Time Using AI-Enhanced Surveillance Analytics . . .</title><link>https://jsibitoye.github.io/jsibitoye/publications/modelling_threat_vectors/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://jsibitoye.github.io/jsibitoye/publications/modelling_threat_vectors/</guid><description>&lt;p&gt;This paper introduces an &lt;strong&gt;AI-driven, multi-domain surveillance framework&lt;/strong&gt; that unifies analytics across cyber, land, air, and maritime systems.&lt;br&gt;
 By fusing multi-sensor data and deep-learning insights, the system models threat behaviors in real time to strengthen &lt;strong&gt;national defense and infrastructure protection&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/p&gt;</description></item></channel></rss>
