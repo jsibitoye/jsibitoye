@@ -1,21 +1,18 @@
 # SITE SETUP
 # Guide: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
 appearance:
   mode: system
-  color: indigo
+  color: blue
 
-# SEO
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'iTechSVC'
+    description: 'Joshua Seyi Ibitoye is a cloud security, DevSecOps, and AI systems engineer building secure infrastructure, intelligent automation, and applied cybersecurity research.'
+    twitter: 'jsibitoye'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -26,7 +23,6 @@ marketing:
     google: ''
     baidu: ''
 
-# Site header
 header:
   navbar:
     enable: true
@@ -35,24 +31,21 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'JS. Ibitoye'
+      text: 'Josh Ibitoye'
 
-# Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: 'Copyright {year} Joshua Seyi Ibitoye. All rights reserved.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
 
-# Localization
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
-# Site features
 features:
   math:
     enable: false

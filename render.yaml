@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: jsibitoye-portfolio
+    runtime: static
+    buildCommand: chmod a+x build.sh && ./build.sh
+    staticPublishPath: ./public
+    domains:
+      - jsibitoye.com
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+      - key: GO_VERSION
+        value: 1.21.5
+      - key: HUGO_ENV
+        value: production

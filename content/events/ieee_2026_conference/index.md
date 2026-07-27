@@ -1,7 +1,7 @@
 ---
 title: "Credit Card Fraud Detection Using Machine Learning: An AI-Driven Approach for Financial Security"
 
-event: "IEEE 2026 Conference"
+event: "IEEE 2026 Conference Presentation"
 event_url: "https://www.ieee.org/conferences/"
 
 location: "Stanford University, 450 Serra Mall, Stanford, CA 94305"
@@ -13,16 +13,10 @@ address:
   country: "United States"
 
 summary: |
-  Presentation of an AI-based credit card fraud detection system integrating supervised learning and SMOTE for class imbalance correction.  
-  Comparison of ensemble and neural models in real-world financial transaction analysis.
+  Presentation of an AI-based credit card fraud detection system using supervised learning, class-imbalance correction, and model comparison for financial security use cases.
 
 abstract: |
-abstract: |
-  Credit card fraud poses a major challenge to financial institutions, causing severe economic losses and eroding consumer trust.  
-  This study applies **supervised machine learning algorithms** to detect fraudulent transactions in an anonymized dataset of over 200,000 records.  To handle the <1 % fraud imbalance, the **Synthetic Minority Oversampling Technique (SMOTE)** was employed.   Models including **Logistic Regression, Random Forest, XGBoost, and ANN** were evaluated using recall, precision, F1-score, and ROC-AUC metrics.  Results show that **ensemble methods**, particularly **XGBoost**, delivered the highest detection accuracy and recall, proving most effective for combating financial fraud.  
-  <br>
-  The work demonstrates that adaptive AI models can enhance security and reliability in modern financial systems.
-
+  Credit card fraud remains a major challenge for financial institutions because fraudulent activity is rare, adaptive, and costly when missed. This presentation covers a machine-learning workflow for identifying fraudulent transactions in an anonymized dataset with more than 200,000 records. It applies SMOTE for class-imbalance handling and compares logistic regression, random forest, XGBoost, and neural models using recall, precision, F1 score, and ROC-AUC.
 
 date: "2026-06-01T13:00:00Z"
 date_end: "2026-06-01T15:00:00Z"
@@ -45,7 +39,7 @@ tags:
 featured: true
 
 image:
-  caption: "AI-Driven Fraud Detection Presentation — IEEE 2026"
+  caption: "AI-driven fraud detection presentation"
   focal_point: "center"
   preview_only: false
 
@@ -56,16 +50,10 @@ links:
   - type: code
     name: "Code"
     url: "https://github.com/jsibitoye/credit-fraud-detection-system"
-  - type: video
-    name: "Video"
-    url: "https://youtu.be/example"
 
 slides: ""
-projects: []
+projects:
+  - credit-card-fraud-detection
 ---
-Josh Ibitoye will present his research on **AI-based credit card fraud detection systems** at the *IEEE 2026 Conference* in Stanford, California.  
 
-This session explores how **machine learning and ensemble models** like XGBoost can minimize undetected fraud and strengthen financial systems through adaptive analytics.
-
-> “Our goal is to help financial institutions deploy real-time, explainable, and intelligent fraud detection solutions.”  
-> — *Josh Ibitoye, IEEE 2026*
+This presentation explains how supervised machine-learning models can support fraud detection in highly imbalanced financial datasets, with emphasis on recall, explainability, and operational security value.
